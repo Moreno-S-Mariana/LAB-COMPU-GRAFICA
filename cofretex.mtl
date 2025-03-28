@@ -1,0 +1,12 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl BLUE.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:/COMPU GRAFICA LAB0/practica06/P06-319170252/P06-319170252/Textures/logoCofre.tga
